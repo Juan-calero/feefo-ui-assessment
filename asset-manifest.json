@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/feefo-ui-assessment/static/css/main.e7d9c1db.chunk.css",
+    "main.js": "/feefo-ui-assessment/static/js/main.291e4ce6.chunk.js",
+    "main.js.map": "/feefo-ui-assessment/static/js/main.291e4ce6.chunk.js.map",
+    "runtime-main.js": "/feefo-ui-assessment/static/js/runtime-main.290c81b0.js",
+    "runtime-main.js.map": "/feefo-ui-assessment/static/js/runtime-main.290c81b0.js.map",
+    "static/js/2.58597ca7.chunk.js": "/feefo-ui-assessment/static/js/2.58597ca7.chunk.js",
+    "static/js/2.58597ca7.chunk.js.map": "/feefo-ui-assessment/static/js/2.58597ca7.chunk.js.map",
+    "index.html": "/feefo-ui-assessment/index.html",
+    "static/css/main.e7d9c1db.chunk.css.map": "/feefo-ui-assessment/static/css/main.e7d9c1db.chunk.css.map",
+    "static/js/2.58597ca7.chunk.js.LICENSE.txt": "/feefo-ui-assessment/static/js/2.58597ca7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.290c81b0.js",
+    "static/js/2.58597ca7.chunk.js",
+    "static/css/main.e7d9c1db.chunk.css",
+    "static/js/main.291e4ce6.chunk.js"
+  ]
+}
